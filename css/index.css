@@ -13,7 +13,9 @@
 .f-title-color {
     color: white;
 }
-
+.color-text-white{
+    color: white;
+}
 .dividing-line {
     height: 5px;
     border-radius: 50px;
@@ -33,4 +35,13 @@
 }
 .offset-bot-96{
     margin-bottom: 96px;
+}
+.card-link{
+    border: 2px gray solid;
+    text-decoration: none;
+    color: black;
+}
+.card-link:hover{
+    border: 2px white solid;
+    color: darkblue;
 }
